@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+
+
+body {
+   background-image: linear-gradient(to left, greenyellow, lightblue);
+   background-attachment: fixed;
+   font-family: arial, Helvetica, Sans-serif
+
+}
+h1 {
+    color: darkmagenta
+
+}
+
+#principal{
+    text-align: center;
+    background-color: greenyellow;
+    color: black;
+}
+ h2 {
+    color: darkred
+ }
+
+ .basico{
+    color: green
+     
+ }
+ .intermediario{
+    color: yellow
+
+ }
+ .avançado{
+    color: red
+
+ }
+ .destaque{
+   background-color: azure;
+ }
